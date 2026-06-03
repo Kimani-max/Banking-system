@@ -52,7 +52,7 @@ This system allows administrators to manage users, create customer accounts, and
 ![Dashboard](assets/images/dashboard.png)
 
 ### 💳 Accounts Page
-![Accounts](asssets/images/accounts.png)
+![Accounts](assets/images/accounts.png)
 
 ### 💰 Transactions
 ![Transactions](assets/images/transactions.png)
